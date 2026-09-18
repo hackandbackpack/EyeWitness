@@ -23,6 +23,7 @@ wheels/
 # C# / .NET
 bin/
 obj/
+packages/
 *.user
 *.suo
 *.cache
